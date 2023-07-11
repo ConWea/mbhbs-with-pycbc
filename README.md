@@ -127,3 +127,6 @@ This will result in the final reconstructed sky position file *bbhx_recon.hdf*. 
 
 # Plotting
 
+# Results
+
+The directory `results` contains the posterior distributions for both intrinsic and extrinsic parameters for our analysis of the Sangria blind data challenge.
